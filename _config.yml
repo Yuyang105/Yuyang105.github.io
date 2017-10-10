@@ -1,6 +1,6 @@
 # Site settings
-title: "Jekyll Resume Template"
-description: "A resume template for Jekyll and GitHub Pages sites."
+title: "Eddie Yu Portfolio"
+description: "Personal portfolio website of Yuyang (Eddie) Yu."
 
 # Build settings
 markdown: kramdown
@@ -10,13 +10,13 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Homer J. Simpson"
-resume_title:                   "Nuclear Safety Inspector"
-resume_contact_email:           "homerjsimpson@youremailaddress.com"
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
-resume_header_contact_info: "742 Evergreen Terrace, Springfield | 555-7334 | homerjsimpson@youremailaddress.com"
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but K.I.S.S.</p>"
+resume_name:                    "Yuyang (Eddie) Yu"
+resume_title:                   "Machine Learning Engineer"
+resume_contact_email:           "yuyang.yu105@gmail.com"
+resume_contact_telephone:       "1-253-327-8937"
+resume_contact_address:         "603 S J St, Apt #211, Tacoma, WA 98405"
+resume_header_contact_info: "603 S J St, Apt #211, Tacoma, WA 98405| 1-253-327-8937 | yuyang.yu105@gmail.com"
+resume_header_intro: "<p>Graduate student in computer science from University of Washington, with 5+ years of programming experience. Expert at Machine Learning, Deep Learning, iOS and software development. Skilled and highly familiar with a wide variety of programming languages and techniques. Capable of explaining complex algorithm in pellucid terms.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -26,25 +26,25 @@ resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
-resume_section_experience:      true
 resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
+resume_section_experience:      true
 resume_section_recognition:     true
 resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
-  # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
-  # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
+  resume_github_url:            "https://github.com/Yuyang105"
+  #resume_twitter_url:           "http://twitter.com/jglovier"
+  #resume_dribbble_url:          "https://dribbble.com/jag"
+  #resume_facebook_url:          "insert Facebook URL here"
+  resume_linkedin_url:          "https://www.linkedin.com/in/YuyangYu"
+  resume_instagram_url:         "https://www.instagram.com/yuyang.yu/"
+  resume_website_url:           "http://yuyang105.github.io"
 resume_print_social_links:      true
 
 # Design settings
