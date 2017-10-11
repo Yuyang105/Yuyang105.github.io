@@ -7,7 +7,7 @@
   duration: Feb, 2017 &mdash; May, 2017
   # url: "#"
   description: To build a system for auto-recognition of the age, gender and Big5 personality of Facebook users
-  abc
+  details: •&nbspUsed TensorFlow and Keras to implement 3 CNN models to handle the image data with Python<br />•&nbspUsed Python to apply Naïve Bayes classifier and Tf-idf based SVM on text data<br />•&nbspApplied kNN method, page-user-page model, SVD based LR, and Perceptron NN on users' likes.<br />•&nbspBy ensemble learning all my classifiers, I achieved highest accuracy among twenty teams wrt these 3 targets.
 
 #Springfield Donut Eater's User Group
 - project: Springfield Donut Eater's User Group
