@@ -1,2 +1,6 @@
-##Personal Website##
-Live resume, thanks to <a href="http://twitter.com/jglovier">@jglovier</a>.
+# Personal Website
+
+## Live Resume 
+
+Thanks to <a href="http://twitter.com/jglovier">@jglovier</a>.
+
