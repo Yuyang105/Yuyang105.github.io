@@ -44,7 +44,7 @@ resume_social_links:
   #resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/YuyangYu"
   resume_instagram_url:         "https://www.instagram.com/yuyang.yu/"
-  resume_website_url:           "http://yuyang105.github.io"
+  #resume_website_url:           "http://yuyang105.github.io"
 resume_print_social_links:      true
 
 # Design settings
