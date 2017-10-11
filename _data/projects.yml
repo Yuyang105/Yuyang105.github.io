@@ -22,7 +22,7 @@
   duration: Jan 2015 &mdash; Jan 2016
   url: "file/Dissertation_of Dementia_Care.pdf"
   description: To develop a mobile based app to help both early-stage dementia patients and their carers
-  details: <ul class="resume-item-list"><li>Top-rated final year project of University of Liverpool in 2016, and is kept in campus library.</li><li>Programed an iOS app in Objective-C with MySQL and PHP based backend.</li><li>Patients would be reminded with daily routine, and completion progress could be checked by carers.</li><li>Carers could track their patients’ real-time location. Patients could use built-in map to navigate.</li><li>Used APNs to enable instant comunnications under urgent cases.</li><li>Used SQLite locally to ensure robust services and database consistency under poor network connectivity.</li></ul>
+  details: <ul class="resume-item-list"><li>Top-rated final year project of University of Liverpool in 2016, and is kept in campus library.</li><li>Programed an iOS app in Objective-C with MySQL and PHP based backend.</li><li>Patients would be reminded with daily routine, and completion progress could be checked by carers.</li><li>Carers could track their patients’ real-time location. Patients could use built-in map to navigate.</li><li>Used APNs to enable remote instant comunnications (notif) under urgent cases.</li><li>Used SQLite locally to ensure robust services and database consistency under poor network connectivity.</li></ul>
  
   # Cloud Campus
 - project: Cloud Campus (Social Networking Website)
