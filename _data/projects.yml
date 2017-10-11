@@ -5,7 +5,7 @@
 - project: User Profiling in Facebook (Machine Learning)
   role: Team Leader & Primary Developer
   duration: Feb, 2017 &mdash; May, 2017
-  url: "yuyang105.github.io/file/Social_Media_Profiling_Report.pdf"
+  url: "file/Social_Media_Profiling_Report.pdf"
   description: To build a system for auto-recognition of the age, gender and OCEAN personality
   details: <ul class="resume-item-list"><li>Used transfer learning with Google Inception V3 model and implemented 2 CNN models in Tensorflow and Keras to handle image data.</li><li>Used Python to apply Naïve Bayes classifier and Tf-idf based SVM on text data.</li><li>Applied kNN method, page-user-page model, SVD based LR, and Perceptron NN on users' likes.</li><li>Achieved highest accuracy among twenty teams wrt these 3 targets by ensemble learning all 12 classifiers.</li></ul>
 # Smart Light
