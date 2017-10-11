@@ -5,17 +5,16 @@
 - project: User Profiling in Facebook (Machine Learning)
   role: Team Leader & Primary Developer
   duration: Feb, 2017 &mdash; May, 2017
-  # url: "#"
+  url: "yuyang105.github.io/file/Social_Media_Profiling_Report.pdf"
   description: To build a system for auto-recognition of the age, gender and OCEAN personality
-  details: •&nbsp&nbspUsed TensorFlow and Keras to implement 3 CNN models to handle the image data with Python.<br />•&nbsp&nbspUsed Python to apply Naïve Bayes classifier and Tf-idf based SVM on text data.<br />•&nbsp&nbspApplied kNN method, page-user-page model, SVD based LR, and Perceptron NN on users' likes.<br />•&nbsp&nbspAchieved highest accuracy among twenty teams wrt these 3 targets by ensemble learning all 12 classifiers.
-
+  details: <ul class="resume-item-list"><li>Used transfer learning with Google Inception V3 model and implemented 2 CNN models in Tensorflow and Keras to handle image data.</li><li>Used Python to apply Naïve Bayes classifier and Tf-idf based SVM on text data.</li><li>Applied kNN method, page-user-page model, SVD based LR, and Perceptron NN on users' likes.</li><li>Achieved highest accuracy among twenty teams wrt these 3 targets by ensemble learning all 12 classifiers.</li></ul>
 # Smart Light
 - project: Smart Light System (iOS App + AWS-IoT)
   role: Individual Project
   duration: Apr, 2017 &mdash; May, 2017
   # url: "#"
   description: First attempt to intelligent homes. Not only can it auto-control lights, but also managed remotely
-  details: •&nbsp&nbspEmployed a PIR motion sensor to auto-control lights under auto mode.<br />•&nbsp&nbspProgramed an iOS app in Swift to remotely control the system via AWS Cognito and AWS-IoT.
+  details: <ul class="resume-item-list"><li>Employed a PIR motion sensor to auto-control lights under auto mode.</li><li>Programed an iOS app in Swift to remotely control the system via AWS Cognito and AWS-IoT.</li></ul>
   
 # Dementia Care
 - project: Dementia Patient Monitoring and Care Support (iOS App)
@@ -23,7 +22,7 @@
   duration: Jan, 2015 &mdash; Jan, 2016
   # url: "#"
   description: To develop a mobile based app to help both early-stage dementia patients and their caregivers
-  details: •&nbsp&nbspTop-rated final year project of University of Liverpool in 2016, and is kept in campus library.<br />•&nbsp&nbspProgramed an iOS app in Objective-C with MySQL and PHP based backend.<br />•&nbsp&nbspPatients would be reminded with daily routine, and completion progress could be checked by carers.<br />•&nbsp&nbspCarers could track their patients’ real-time location. Patients could use built-in map to navigate.<br />•&nbsp&nbspUsed APNs to enable instant comunnications under urgent cases.<br />•&nbsp&nbspUsed SQLite locally to ensure robust services and database consistency under poor network connectivity.
+  details: <ul class="resume-item-list"><li>Top-rated final year project of University of Liverpool in 2016, and is kept in campus library.</li><li>Programed an iOS app in Objective-C with MySQL and PHP based backend.</li><li>Patients would be reminded with daily routine, and completion progress could be checked by carers.</li><li>Carers could track their patients’ real-time location. Patients could use built-in map to navigate.</li><li>Used APNs to enable instant comunnications under urgent cases.</li><li>Used SQLite locally to ensure robust services and database consistency under poor network connectivity.</li></ul>
  
   # Cloud Campus
 - project: Cloud Campus (Social Networking Website)
@@ -31,4 +30,4 @@
   duration: Jan, 2015 &mdash; Jun, 2015
   # url: "#"
   description: To promote organizations’ developments and enhance students’ communications
-  details: •&nbsp&nbspUsed HTML/CSS, PHP, JavaScript and MySQL to implement the website.<br />•&nbsp&nbspStudents can not only connect friends and share their moments as traditional social webs, but also share their plans and events in real-time with friends.
+  details: <ul class="resume-item-list"><li>Used HTML/CSS, PHP, JavaScript and MySQL to implement the website.</li><li>Students can not only connect friends and share their moments as traditional social webs, but also share their plans and events in real-time with friends.</li></ul>
