@@ -10,7 +10,7 @@
   details: <ul class="resume-item-list"><li>Used transfer learning with Google Inception V3 model and implemented 2 CNN models in Tensorflow and Keras to handle image data.</li><li>Used Python to apply Naïve Bayes classifier and Tf-idf based SVM on text data.</li><li>Applied kNN method, page-user-page model, SVD based LR, and Perceptron NN on users' likes.</li><li>Achieved the highest accuracy among twenty teams wrt all 3 targets by ensemble learning all 12 classifiers.</li></ul>
 
 # Cifar-10
-- project: CIFAR-10 on Kaggle with MXNet-Gluon (Computer Vision)
+- project: CIFAR-10 on Kaggle with MXNet (Computer Vision)
   role: Individual Project
   duration: Oct 2017 &mdash; Nov 2017
   description: Hands on different CNN architectures to identify the subject of 60,000 labeled images
