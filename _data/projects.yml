@@ -6,7 +6,7 @@
   role: Individual Project
   duration: Oct 2017 &mdash; Nov 2017
   description: Hands on different CNN architectures to identify the subject of 60,000 labeled images
-  details: <ul class="resume-item-list"><li>Achieved 95.34% accuracy.</li><li>Earned $200 prize in the Amazon MXNet-Gluon Studying Community.</li><li>Implemented AlexNet, VGG, ResNet, and DenseNet in MXNet-Gluon.</li><li>Launched GPU instances on Amazon AWS and utilized with NVIDIA cuda to speed up the training.</li></ul>
+  details: <ul class="resume-item-list"><li>Achieved 95.34% accuracy.</li><li>Earned top 5 award in the Amazon MXNet-Gluon Studying Community.</li><li>Implemented AlexNet, VGG, ResNet, and DenseNet in MXNet-Gluon.</li><li>Launched GPU instances on Amazon AWS and utilized with NVIDIA cuda to speed up the training.</li></ul>
 
 # Facebook
 - project: User Profiling in Facebook (Machine Learning)
