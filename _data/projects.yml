@@ -6,7 +6,7 @@
   role: Individual Project
   duration: Oct 2017 &mdash; Nov 2017
   description: Hands on different CNN architectures to identify the subject of 60,000 labeled images
-  details: <ul class="resume-item-list"><li>Achieved 95.34% accuracy.</li><li>Earned top 5 award in the Amazon MXNet-Gluon Studying Community.</li><li>Implemented AlexNet, VGG, ResNet, and DenseNet in MXNet-Gluon.</li><li>Launched GPU instances on Amazon AWS and utilized with NVIDIA cuda to speed up the training.</li></ul>
+  details: <ul class="resume-item-list"><li>Achieved 95.34% accuracy.</li><li>Earned Top 5 Award in Amazon MXNet Community by implementing AlexNet, VGG, ResNet and DenseNet in MXNet-Gluon, leading to 95.34% ensemble accuracy.</li><li>Reduced training time from days to hours by deploying Amazon AWS GPU instances based on NVIDIA CUDA.</li></ul>
 
 # Facebook
 - project: User Profiling in Facebook (Machine Learning)
@@ -14,7 +14,7 @@
   duration: Feb 2017 &mdash; May 2017
   url: "file/Social_Media_Profiling_Report.pdf"
   description: To build a system for auto-recognition of the age, gender and OCEAN personality
-  details: <ul class="resume-item-list"><li>Used transfer learning with Google Inception V3 model and applied 2 CNN models in Tensorflow for image.</li><li>Used Python to apply Naïve Bayes classifier and Tf-idf based SVM on text data.</li><li>Applied kNN method, page-user-page model, SVD based LR, and Perceptron NN with Keras on users' likes.</li><li>Achieved the highest accuracy among twenty teams wrt all 3 targets by ensemble learning all 12 classifiers.</li></ul>
+  details: <ul class="resume-item-list"><li>Achieved the highest accuracy among twenty teams w.r.t. all 3 targets by ensemble learning 12 models.</li><li>Used image data by transfer learning Google Inception-V3 and implementing 2 CNN models in TensorFlow.</li><li>Used text data by applying Naïve Bayes and TF-idf based SVM classifiers in Python.</li><li>Used users’ likes by implementing KNN, page-user-page, SVD based LR, and a Perceptron NN in Keras.</li></ul>
 
 # Smart Light
 - project: Smart Light System (iOS App + AWS-IoT)
@@ -22,7 +22,7 @@
   duration: Apr 2017 &mdash; May 2017
   # url: "#"
   description: First attempt to intelligent homes. Not only can it auto-control lights, but also managed remotely
-  details: <ul class="resume-item-list"><li>Employed a PIR motion sensor to auto-control lights under auto mode.</li><li>Programed an iOS app in Swift to remotely control the system via AWS Cognito and AWS-IoT.</li></ul>
+  details: <ul class="resume-item-list"><li>Accomplished a remote light control system by developing a client-side mobile app in Swift and employing AWS Congnito and AWS IoT as server-side.</li><li>Employed PIR motion sensors to automatically control lights under auto mode.</li></ul>
   
 # Dementia Care
 - project: Dementia Patient Monitoring and Care Support (iOS App)
@@ -30,7 +30,7 @@
   duration: Jan 2015 &mdash; Jan 2016
   url: "https://github.com/Yuyang105/DementiaCare/"
   description: To develop a mobile based app to help both early-stage dementia patients and their carers
-  details: <ul class="resume-item-list"><li>Top-rated final year project of University of Liverpool in 2016, and is kept in campus library.</li><li>Programed an iOS app in Objective-C with MySQL and PHP based backend.</li><li>Patients would be reminded with daily routine, and completion progress could be checked by carers.</li><li>Carers could track their patients’ real-time location. Patients could use built-in map to navigate.</li><li>Used APNs to enable remote instant comunnications (notif) under urgent cases.</li><li>Used SQLite locally to ensure robust services and database consistency under poor network connectivity.</li></ul>
+  details: <ul class="resume-item-list"><li>Top-rated final year project of University of Liverpool in 2016, and is kept in campus library.</li><li>Accomplished this project by implementing an iOS app in Objective-C with MySQL and PHP based backend.</li><li>Allowed early-stage dementia patients live at home with daily issue reminder, built-in map navigator, and an instant message system. Enabled caregivers to track patients’ daily issue progresses and real-time locations.</li><li>Ensured robust services and database consistency under poor network connectivity by employing local SQLite.</li></ul>
  
   # Cloud Campus
 - project: Cloud Campus (Social Networking Website)
