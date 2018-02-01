@@ -3,7 +3,7 @@
 
 # Cifar-10
 - project: CIFAR-10 on Kaggle with MXNet (Computer Vision)
-  role: Individual Project
+  role: Independent Project
   duration: Oct 2017 &mdash; Nov 2017
   description: Hands on different CNN architectures to identify the subject of 60,000 labeled images
   details: <ul class="resume-item-list"><li>Achieved 95.34% accuracy.</li><li>Earned Top 5 Award in Amazon MXNet Community by implementing AlexNet, VGG, ResNet and DenseNet in MXNet-Gluon, leading to 95.34% ensemble accuracy.</li><li>Reduced training time from days to hours by deploying Amazon AWS GPU instances based on NVIDIA CUDA.</li></ul>
@@ -26,7 +26,7 @@
   
 # Dementia Care
 - project: Dementia Patient Monitoring and Care Support (iOS App)
-  role: UoL Final Year Project
+  role: Individual Project
   duration: Jan 2015 &mdash; Jan 2016
   url: "https://github.com/Yuyang105/DementiaCare/"
   description: To develop a mobile based app to help both early-stage dementia patients and their carers
