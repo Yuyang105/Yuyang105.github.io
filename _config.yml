@@ -16,7 +16,7 @@ resume_contact_email:           "yuyang.yu105@gmail.com"
 resume_contact_telephone:       "1-253-327-8937"
 resume_contact_address:         "603 S J St, Apt #211, Tacoma, WA 98405"
 resume_header_contact_info: "603 S J St, Apt #211, Tacoma, WA 98405| 1-253-327-8937 | yuyang.yu105@gmail.com"
-resume_header_intro: "<p align='justify'>Graduate student in computer science from University of Washington, with 5+ years of programming experience. Expert at machine learning, deep learning, iOS development, and software engineering. Skilled and highly familiar with a wide variety of programming languages, tools, and techniques. Capable of explaining complex algorithm in pellucid terms.</p>"
+resume_header_intro: "<p align='justify'>Graduate student in computer science from the University of Washington, with 6+ years of programming experience. Proficient in software development, data science, machine learning, and deep learning. Skilled and highly familiar with a wide variety of programming languages and tools, with a strong knowledge of algorithms and data structures.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -44,7 +44,7 @@ resume_social_links:
   #resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/YuyangYu"
   resume_instagram_url:         "https://www.instagram.com/yuyang.yu/"
-  #resume_website_url:           "http://yuyang105.github.io"
+  resume_website_url:           "http://yuyang105.github.io"
 resume_print_social_links:      true
 
 # Design settings
